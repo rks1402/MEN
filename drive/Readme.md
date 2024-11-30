@@ -31,8 +31,3 @@ The app supports user authentication and file storage, with the following core f
    - Upload files to Firebase Storage.
    - View a list of their uploaded files.
    - Download files directly from the platform.
-
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
